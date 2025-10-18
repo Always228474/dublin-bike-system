@@ -196,19 +196,5 @@ curl "http://localhost:5000/predict?station_id=42&date=2025-04-10&time=10:30"
 
 详细部署说明请参考 [DEPLOYMENT.md](DEPLOYMENT.md)
 
-## 🤝 贡献指南
-
-我们欢迎所有形式的贡献！请参考 [CONTRIBUTING.md](CONTRIBUTING.md) 了解如何参与项目开发。
-
-## 📝 许可证
-
-本项目采用 MIT 许可证。详情请参考 [LICENSE](LICENSE) 文件。
-
-## 📧 联系方式
-
-- **Email**: info@findmybike.ie
-- **GitHub Issues**: [提交问题](https://github.com/your-username/dublin-bike-system/issues)
-
----
 
 Made with ❤️ for Dublin cyclists! 🚴‍♀️🚴‍♂️
