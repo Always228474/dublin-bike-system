@@ -1,0 +1,17 @@
+# API Keys - 请复制此文件为.env并填入真实API keys
+JCDECAUX_API_KEY=your_jcdecaux_api_key_here
+OPENWEATHER_API_KEY=your_openweather_api_key_here
+GOOGLE_MAPS_API_KEY=your_google_maps_api_key_here
+
+# Database Configuration
+DB_USER=root
+DB_PASSWORD=your_database_password
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_BIKES=dublinbikes
+DB_WEATHER=dublinweather
+DB_FUTURE=futureweather
+DB_LOGIN=login
+
+# Flask Secret Key
+FLASK_SECRET_KEY=your_secret_key_here
